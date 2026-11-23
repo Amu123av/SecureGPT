@@ -1,0 +1,29 @@
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Browser extension archives
+*.crx
+*.zip
+
+# Local scripts
+push.bat
+setup_and_push.bat
